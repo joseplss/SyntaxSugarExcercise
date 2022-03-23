@@ -6,7 +6,7 @@ namespace SyntaxSugarExcercise
     {
         static void Main(string[] args)
         {
-            //Extra code added for user input instead of just 4 as variable
+            //Extra code added for user input instead of just 9 as variable
             Console.WriteLine("Give me a number.");
 
             //Excercise 1 has shortened from 11 lines of code to 3
