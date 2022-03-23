@@ -11,8 +11,8 @@ namespace SyntaxSugarExcercise
 
             //Excercise 1 has shortened from 11 lines of code to 3
             var answer = Convert.ToInt32(Console.ReadLine());
-            var response = (answer < 9) ? " is less than nine" : " is greater than or equal to nine";
-            Console.WriteLine($"If you're answer is {answer}, it{response}");
+            var response = (answer < 9) ? $"{answer} is less than nine" : $"{answer} is greater than or equal to nine";
+            Console.WriteLine(response);
         }
     }
 }
