@@ -1,0 +1,14 @@
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.exe
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.deps.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.runtimeconfig.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.runtimeconfig.dev.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.csproj.AssemblyReference.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.AssemblyInfoInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.AssemblyInfo.cs
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.genruntimeconfig.cache
